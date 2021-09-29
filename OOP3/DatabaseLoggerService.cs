@@ -9,6 +9,9 @@ namespace OOP3
         public void Log()
         {
             Console.WriteLine("Veritabanına loglandı");
+
+
+
         }
     }
 }
